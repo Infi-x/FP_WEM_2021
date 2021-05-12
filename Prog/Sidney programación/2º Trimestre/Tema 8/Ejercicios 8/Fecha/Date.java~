@@ -1,0 +1,85 @@
+public class Date
+{
+    private int day, month, year;
+        
+    /**
+     * Create a date for the day 27-08-2004
+     */
+    public Date()
+    {
+        day = 27;
+        month = 8;
+        year = 2004;
+    }
+
+    /**
+     * Create a date for the day d-m-y
+     */
+    public Date(int d, int m, int y)
+    {
+        day = d;
+        month = m;
+        year = y;
+    }
+    
+    /**
+     * @return whether this year is a leap year
+     */
+    public boolean isInLeapYear() {
+        /* leap year rule:
+           a year is a leap year if 4 divides the year
+           exception: years that divides by 100 are NOT leap years
+                      UNLESS the year divides by 400
+        */
+        return (year%4 == 0 && year%100 != 0) || (year%400 == 0);
+    }
+    
+    /**
+     * @return the number of days in this month
+     */
+    public int daysInMonth() {
+             // month:  dummy  1  2  3  4  5  6  7  8  9 10 11 12
+       int[] daysInMonth = {0,31,28,31,30,31,30,31,31,30,31,30,31};
+       int res;
+
+       res = daysInMonth[month];
+       // special case: february in a leap year
+       if ( month == 2 && isInLeapYear() ) {
+           res++;
+       }
+       return res;
+    }
+    
+    /**
+     * @return the date after this
+     */
+    public void setToNextDate()
+    {   day = day + 1;
+        if ( day > daysInMonth() ) {
+            day = 1;
+            month = month +1;
+            if (month > 12) {
+                month = 1;
+                year = year + 1;
+            }
+        }
+    }
+
+    /**
+     * @return the date d days after this
+     */
+    public void addDays(int d)
+    {
+        for (int i = 0; i < d; i++) {
+            setToNextDate();
+        }
+    }
+
+    /**
+     * @return a string representation of this date
+     */
+    public String toString()
+    {
+        return day + "-" + month + "-" + year;
+    }
+}

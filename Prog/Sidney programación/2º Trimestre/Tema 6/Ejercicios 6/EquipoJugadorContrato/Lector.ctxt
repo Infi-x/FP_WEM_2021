@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Lector()
+comment0.text=\nConstructor\n\n
+comment1.target=String\ getInput()
+comment1.text=\nLee\ una\ l\u00EDnea,\ elimina\ los\ blancos\ny\ la\ devuelve\ en\ min\u00FAsculas\n\n@return\ \ el\ string\ tecleado\ por\ el\ usuario\n\n
+comment2.target=String\ leerLinea()
+comment2.text=\nLee\ una\ l\u00EDnea\n\n@return\ \ un\ string,\ la\ l\u00EDnea\ tecleada\ por\ el\ usuario\n\n
+numComments=3

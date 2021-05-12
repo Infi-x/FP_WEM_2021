@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ClubDemo()
+comment0.text=\nConstructor\ de\ la\ clase\ ClubDemo\n\n
+comment1.target=void\ demo()
+comment1.text=\nA\u00F1adir\ algunos\ miembros\ al\ club,\ y\ mostrar\ cuantos\ hay.\n\n\n
+numComments=2

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Juego()
+comment1.target=void\ crearHabitaciones()
+comment1.text=\nCrea\ todas\ las\ habitaciones\ y\ establece\ las\ salidas\n\n
+comment2.target=void\ jugar()
+comment3.target=void\ escribirBienvenida()
+comment3.text=\nEscribir\ mensaje\ de\ bienvenida\ al\ jugador.\n\n
+comment4.params=orden
+comment4.target=boolean\ procesarOrden(Orden)
+comment4.text=\nDada\ una\ orden\ se\ procesa\ (ejecuta).\n@param\ orden\ \ La\ orden\ a\ ejecutar.\n@return\ true\ Si\ la\ orden\ finaliza\ el\ juego,\ false\ en\ otro\ caso.\n\n
+comment5.target=void\ escribirAyuda()
+comment6.params=orden
+comment6.target=void\ irAHabitacion(Orden)
+comment6.text=\nIntentar\ ir\ en\ una\ direcci\u00F3n.\ Si\ hay\ una\ salida\ entrar\ en\ la\ nueva\nhabitaci\u00F3n,\ sino\ escrbir\ un\ mensaje\ de\ error.\n\n
+comment7.params=orden
+comment7.target=boolean\ salir(Orden)
+comment7.text=\nSe\ ha\ tecleado\ "Salir".\ Verificar\ el\ resto\ de\ la\ orden\npara\ ver\ si\ realment\ se\ quiere\ salir\ del\ juego\n@return\ true,\ si\ la\ orden\ sale\ del\ juego,\ false\ en\ otro\ caso.\n\n
+numComments=8

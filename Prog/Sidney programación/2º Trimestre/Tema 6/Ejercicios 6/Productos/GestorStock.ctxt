@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=GestorStock()
+comment0.text=\nInicializar\ el\ gestor\ de\ stock\n\n
+comment1.params=queProducto
+comment1.target=void\ a\u00F1adirProducto(Producto)
+comment1.text=\nA\u00F1adir\ un\ producto\ a\ la\ lista\n@param\ queProducto\ El\ producto\ a\ a\u00F1adir\n\n
+comment2.params=id\ cuanto
+comment2.target=void\ recibir(int,\ int)
+comment2.text=\nRecibir\ una\ entrega\ de\ un\ producto\ particular\nIncrementar\ la\ cantidad\ del\ producto\ en\ la\ cantidad\ indicada.\n@param\ id\ El\ id\ del\ producto\n@param\ cuanto\ La\ cantidad\ en\ que\ se\ incrementar\u00E1\ el\ producto\n\n
+comment3.params=id
+comment3.target=Producto\ encontrarProducto(int)
+comment3.text=\nIntenta\ encontrar\ el\ producto\ con\ el\ id\ dado\n@param\ id\ \ El\ identificador\ del\ producto\ a\ buscar\n@return\ \ \ El\ productos\ si\ se\ encuentra,\ o\ null\ \nsi\ no\ se\ encuentra\n\n
+comment4.params=nombre
+comment4.target=Producto\ encontrarProducto(String)
+comment4.text=\nIntenta\ encontrar\ el\ producto\ a\ partir\ de\ su\ nombre\n@param\ nombre\ \ El\ nombre\ del\ producto\ a\ buscar\n@return\ \ \ El\ producto\ si\ se\ encuentra,\ o\ null\ \nsi\ no\ se\ encuentra\n\n
+comment5.params=id
+comment5.target=int\ cantidadEnStock(int)
+comment5.text=\nLocaliza\ un\ producto\ de\ id\ dado,\ y\ devuelve\ cuanto\ hay\ en\ stock.\ \nSi\ el\ id\ no\ existe\ devuelve\ 0\n@param\ id\ El\ id\ del\ producto\n@return\ La\ cantidad\ en\ stock\ del\ producto\ localizado\n\n
+comment6.target=void\ escribirDetallesProductos()
+comment6.text=\nEscribir\ detalles\ del\ producto\n\n
+comment7.params=valor
+comment7.target=void\ escribirMenorQue(int)
+comment7.text=Escribir\ productos\ cuyo\ stock\ est\u00E1\npor\ debajo\ de\ un\ cierto\ nivel\ que\ se\ \npasa\ como\ par\u00E1metro\n\n
+numComments=8

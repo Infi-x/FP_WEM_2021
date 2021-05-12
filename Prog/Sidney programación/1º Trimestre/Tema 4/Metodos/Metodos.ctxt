@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Metodos
+comment1.params=
+comment1.target=void\ contarParesImpares()
+comment1.text=\r\n\ M\u00E9todo\ que\ genera\ 20\ n\u00BAs\ aleatorios\ comprendidos\ entre\ 1\ y\ 50\ y\ \r\n\ cuenta\ los\ pares\ e\ impares\ generados\ escribiendo\ al\ final\ \r\n\ esta\ cuenta\u0000.\r\n
+comment2.params=s
+comment2.target=int\ maximo(int)
+comment2.text=\r\n\ M\u00E9todo\ que\ calcula\ y\ devuelve\ el\ m\u00E1ximo\ de\ una\ secuencia\ de\ valores\ aleatorios\ \ \r\n\ comprendidos\ entre\ 1\ y\ 100\u0000.\r\n
+comment3.params=
+comment3.target=void\ escribirEstadisticas()
+comment3.text=\r\n\ M\u00E9todo\ que\ genera\ \ MAX\ notas\ aleatorias\ (comprendidas\ entre\ 1\ y\ 10)\ y\ escribe\ la\ \r\n\ siguiente\ estad\u00EDstica\:\ \ media\ de\ las\ notas,\ nota\ m\u00E1xima,\ nota\ m\u00EDnima,\ \r\n\ cu\u00E1ntas\ veces\ ha\ aparecido\ la\ nota\ m\u00E1xima\ y\ cu\u00E1ntas\ la\ nota\ m\u00EDnima.\ \ \r\n\ MAX\ es\ una\ constante\ de\ valor\ 30.\u0000\r\n
+numComments=4

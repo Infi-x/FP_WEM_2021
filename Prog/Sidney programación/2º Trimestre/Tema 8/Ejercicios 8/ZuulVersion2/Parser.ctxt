@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\r\n\ Lee\ entrada\ de\ usuario\ e\ intenta\ interpretarlas\ como\ comandos\ del\ \r\n\ juego.\ Lee\ una\ linea\ de\ texto\ del\ terminal\ e\ intenta\ interpretar\r\n\ la\ l\u00EDnea\ como\ una\ orden\ de\ dos\ palabras.\ Devuelve\ un\ objeto\ de\ la\r\n\ clase\ Orden.\r\n\r\n\ El\ parser\ reconoce\ un\ conjunto\ de\ \u00F3rdenes.\ Analiza\ la\ orden\ tecleada\r\n\ por\ el\ usuario\ compar\u00E1ndola\ con\ el\ repertorio\ de\ \u00F3rdenes\ que\ \u00E9l\ reconoce.\r\n\ Si\ la\ entrada\ no\ es\ una\ orden\ conocida\ devuelve\ un\ objeto\ Orden\ que\ indica\ \r\n\ que\ el\ comando\ no\ se\ reconoce\r\n\ \r\n\ @author\ \ Michael\ Kolling\ y\ David\ J.\ Barnes\r\n\ @version\ 2006.03.30\r\n
+comment1.params=
+comment1.target=Parser()
+comment1.text=\r\n\ Crea\ el\ parser\ para\ leer\ desde\ el\ terminal\ de\ texto.\r\n
+comment2.params=
+comment2.target=Orden\ getOrden()
+comment2.text=\r\n\ @return\ El\ siguiente\ comando\ del\ usuario.\r\n
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FrecuenciaBigramas
+comment1.params=fichero
+comment1.target=FrecuenciaBigramas(java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ FrecuenciaBigramas\r\n
+comment2.params=fichero
+comment2.target=void\ procesarFichero(java.lang.String)
+comment2.text=\r\n\ \r\n\ @param\ \ \r\n\ @return\r\n
+numComments=3

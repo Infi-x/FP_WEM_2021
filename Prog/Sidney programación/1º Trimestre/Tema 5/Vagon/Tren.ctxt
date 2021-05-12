@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Tren
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Tren\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Tren()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Tren\r\n
+comment10.params=
+comment10.target=void\ ordenarVagones()
+comment2.params=
+comment2.target=int\ getNumeroVagones()
+comment2.text=\r\n\ M\u00E9todos\ de\ la\ clase\ Tren\r\n
+comment3.params=
+comment3.target=boolean\ estaLleno()
+comment4.params=v
+comment4.target=void\ a\u00F1adirVagon(Vagon)
+comment5.params=p
+comment5.target=boolean\ esCorrecto(int)
+comment6.params=p
+comment6.target=Vagon\ borrarVagon(int)
+comment7.params=
+comment7.target=void\ printListaVagones()
+comment8.params=
+comment8.target=boolean\ emitirTicket()
+comment9.params=p
+comment9.target=int\ buscarMaximaCapacidad(int)
+numComments=11

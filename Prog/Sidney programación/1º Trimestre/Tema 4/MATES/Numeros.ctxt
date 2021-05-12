@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Numeros
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Numeros\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=desde\ hasta
+comment1.target=int[]\ setNumero(int,\ int)
+comment2.params=desde\ hasta
+comment2.target=void\ pares(int,\ int)
+comment3.params=
+comment3.target=void\ random()
+comment4.params=num
+comment4.target=double\ sumarSerie(int)
+comment5.params=num
+comment5.target=double\ sumarSerie2(int)
+comment6.params=num
+comment6.target=int\ sumarDivisores(int)
+comment7.params=num
+comment7.target=int\ sumarDigitos(int)
+comment8.params=
+comment8.target=void\ borrar()
+numComments=9

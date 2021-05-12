@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Parser()
+comment0.text=\nCrea\ el\ parser\ para\ leer\ desde\ el\ terminal\ de\ texto.\n\n
+comment1.target=Orden\ getOrden()
+comment1.text=\n@return\ El\ siguiente\ comando\ del\ usuario.\n\n
+numComments=2

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Posicion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Posicion\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=f\ c
+comment1.target=Posicion(int,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Posicion\r\n
+comment2.params=
+comment2.target=int\ getFila()
+comment2.text=\r\n\ M\u00E9todos\ de\ la\ clase\ Posicion\r\n
+comment3.params=
+comment3.target=int\ getColumna()
+numComments=4

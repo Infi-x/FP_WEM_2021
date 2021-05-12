@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Secuencia
+comment0.text=\n\ Write\ a\ description\ of\ class\ Secuencia\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=a
+comment1.target=Secuencia(int[])
+comment1.text=\n\ Constructores\ de\ la\ clase\ Secuencia\n
+comment2.params=n
+comment2.target=Secuencia(int)
+comment3.params=
+comment3.target=void\ inicializar()
+comment3.text=\n\ M\u00E9todos\ de\ la\ clase\ Secuencia\n
+comment4.params=
+comment4.target=int\ generarAleatorio()
+comment5.params=
+comment5.target=int[]\ getSecuencia()
+comment6.params=s
+comment6.target=Secuencia\ fusionarCon(Secuencia)
+comment7.params=s
+comment7.target=Secuencia\ interseccionCon(Secuencia)
+numComments=8

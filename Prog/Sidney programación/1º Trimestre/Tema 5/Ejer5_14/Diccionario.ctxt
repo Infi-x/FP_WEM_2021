@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Diccionario
+comment0.text=\r\n\ Clase\ Diccionario\ del\ ejercicio\ 5.14\r\n\r\n\ @author\ Antonio\ Alonso\r\n\ @version\ 1.0\r\n
+comment1.params=numPalabras
+comment1.target=Diccionario(int)
+comment10.params=in
+comment10.target=int\ dondeEstaIngles(java.lang.String)
+comment2.params=nueva
+comment2.target=void\ insertarPalabra(Palabra)
+comment3.params=
+comment3.target=boolean\ estaLleno()
+comment4.params=i
+comment4.target=Palabra\ obtenerPalabra(int)
+comment5.params=p
+comment5.target=boolean\ esCorrecto(int)
+comment6.params=
+comment6.target=void\ escribirDiccionario()
+comment7.params=s
+comment7.target=java.lang.String\ traducirAlIngles(java.lang.String)
+comment8.params=s
+comment8.target=java.lang.String\ traducirAlCastellano(java.lang.String)
+comment9.params=cas
+comment9.target=int\ dondeEstaCastellano(java.lang.String)
+numComments=11

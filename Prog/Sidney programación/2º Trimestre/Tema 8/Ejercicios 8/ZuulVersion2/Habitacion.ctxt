@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Habitacion
+comment0.text=\r\n\ Clase\ Habitacion\ \ -\ una\ habitaci\u00F3n\ en\ el\ juego\ de\ aventuras\r\n\ Una\ habitaci\u00F3n\ representa\ una\ posici\u00F3n\ en\ el\ escenario.\ Est\u00E1\r\n\ conectada\ con\ otras\ habitaciones\ a\ trav\u00E9s\ de\ salidas\:\ salida\ norte,\r\n\ este,\ sur,\ oeste.\r\n\ \r\n\ Para\ cada\ direcci\u00F3n\ la\ habitaci\u00F3n\ almacena\ una\ referencia\ a\ su\ \r\n\ habitaci\u00F3n\ contigua\ o\ null\ si\ no\ existe\ salida\ en\ esa\ direcci\u00F3n.\ \r\n\ \r\n\ @author\ \ Michael\ Kolling\ y\ David\ J.\ Barnes\r\n\ @version\ 2006.03.30\r\n
+comment1.params=descripcion
+comment1.target=Habitacion(java.lang.String)
+comment1.text=\r\n\ Crea\ una\ habitaci\u00F3n\ inicialmente\ sin\ salidas.\r\n\ La\ descripci\u00F3n\ es\ algo\ as\u00ED\ como\ "laboratorio\ de\ ordenadores",\ "el\ bar"\r\n\ \r\n\ @param\ descripcion\ La\ descripci\u00F3n\ de\ la\ habitaci\u00F3n\r\n
+comment2.params=norte\ este\ sur\ oeste
+comment2.target=void\ setSalidas(Habitacion,\ Habitacion,\ Habitacion,\ Habitacion)
+comment2.text=\r\n\ Establece\ las\ salidas\ de\ la\ habitaci\u00F3n.\ Cada\ direcci\u00F3n\r\n\ conduce\ hacia\ una\ habitaci\u00F3n\ o\ es\ null\r\n\ \r\n\ @param\ norte\ La\ salida\ norte.\r\n\ @param\ este\ La\ salida\ este.\r\n\ @param\ sur\ La\ salida\ sur.\r\n\ @param\ oeste\ La\ salida\ oeste.\r\n
+comment3.params=direccion
+comment3.target=Habitacion\ getSalida(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getSalidasString()
+comment5.params=
+comment5.target=java.lang.String\ getDescripcion()
+comment5.text=\r\n\ @return\ La\ descripci\u00F3n\ de\ la\ habitaci\u00F3n.\r\n
+numComments=6

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=real\ imaginaria
+comment0.target=Complejo(float,\ float)
+comment0.text=\nConstructor\ de\ la\ clase\ Complejo\n\n
+comment1.target=float\ getParteReal()
+comment1.text=\n\n@param\ \ \n@return\ \ \ \ \ \n\n
+comment2.target=float\ getParteImaginaria()
+comment3.params=otro
+comment3.target=Complejo\ sumar(Complejo)
+comment3.text=\n\n\n@param\ \ \n@return\ \ \ \ \ \n\n
+numComments=4

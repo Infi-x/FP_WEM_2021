@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Secuencia
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Secuencia\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=s
+comment1.target=Secuencia(java.util.ArrayList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Secuencia\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getSecuencia()
+comment2.text=\r\n\ M\u00E9todos\ de\ la\ clase\ Secuencia\r\n
+comment3.params=s1\ s2
+comment3.target=java.util.ArrayList\ fusionar(java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=s1\ s2
+comment4.target=java.util.ArrayList\ interseccion(java.util.ArrayList,\ java.util.ArrayList)
+numComments=5

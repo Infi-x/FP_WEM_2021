@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Club()
+comment0.text=\nConstructor\ para\ los\ objetos\ de\ la\ clase\ Club\n\n
+comment1.params=miembro
+comment1.target=void\ aniadir(Miembro)
+comment1.text=\nA\u00F1adir\ un\ nuevo\ miembro\ a\ la\ lista\ de\ miembros\n@param\ miembro\ \ El\ objeto\ Miembro\ a\ a\u00F1adir\n\n
+comment2.target=int\ numeroMiembros()
+comment2.text=\n@return\ El\ n\u00BA\ de\ miembros\ del\ club\n\n
+numComments=3

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Miembro
+comment0.text=\r\n\ Alamcena\ detalles\ de\ un\ miembro\ del\ club\r\n\ @author\ K\u00F6lling\ y\ Barnes\r\n
+comment1.params=nombre\ mes\ anio
+comment1.target=Miembro(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Miembro\r\n\ @param\ nombre\ El\ nombre\ del\ miembro\r\n\ @param\ mes\ El\ mes\ en\ el\ que\ el\ miembro\ se\ inscribi\u00F3\ al\ club\ (1-12)\r\n\ @param\ a\u00F1o\ El\ a\u00F1o\ en\ el\ que\ el\ miembro\ se\ inscribi\u00F3\ al\ club\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\r\n\ @return\ El\ nombre\ del\ miembro\r\n
+comment3.params=
+comment3.target=int\ getMes()
+comment3.text=\r\n\ @return\ El\ mes\ en\ el\ que\ el\ miembro\ se\ inscribi\u00F3\ al\ club\r\n\ \ \ \ \ \ \ \ Un\ valor\ entre\ 1..12\r\n
+comment4.params=
+comment4.target=int\ getAnio()
+comment4.text=\r\n\ @return\ El\ a\u00F1o\ en\ el\ que\ el\ miembro\ se\ inscribi\u00F3\ al\ club\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ @return\ Un\ string\ que\ representa\ al\ miembro\r\n
+numComments=6

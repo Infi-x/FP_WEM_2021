@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ListaPersonas
+comment0.text=\r\n\ C\u00F3digo\ de\ la\ clase\ ListaPersonas\r\n\r\n\ @author\ Antonio\ Alonso\r\n\ @version\ 11/12/18\r\n
+comment1.params=
+comment1.target=ListaPersonas()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ ListaPersonas\r\n
+comment2.params=s
+comment2.target=int\ cuantosDeCada(java.lang.String)
+comment2.text=\r\n\ M\u00E9todos\ de\ la\ clase\ ListaPersonas\r\n
+comment3.params=nom
+comment3.target=java.lang.String\ cumpleanios(java.lang.String)
+comment4.params=nueva
+comment4.target=void\ addPersona(Persona)
+comment5.params=
+comment5.target=boolean\ estaLleno()
+comment6.params=
+comment6.target=void\ mostrarPersonas()
+comment7.params=
+comment7.target=boolean\ hayPersonas()
+comment8.params=
+comment8.target=int\ borrarSolteros()
+numComments=9

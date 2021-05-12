@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=equipo
+comment0.target=GestorEquipo(Equipo)
+comment1.target=void\ iniciar()
+comment2.params=palabras
+comment2.target=void\ a\u00F1adirJugador(String[])
+comment3.params=palabras
+comment3.target=void\ borrarJugador(String[])
+comment4.params=palabras
+comment4.target=void\ mejorPagado(String[])
+comment5.target=void\ escribirBienvenida()
+comment6.target=void\ introduzcaDatos()
+comment7.target=void\ escribirAdios()
+numComments=8

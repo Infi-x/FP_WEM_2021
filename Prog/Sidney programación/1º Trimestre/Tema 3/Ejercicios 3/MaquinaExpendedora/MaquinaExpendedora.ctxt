@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=precioTicket
+comment0.target=MaquinaExpendedora(int)
+comment0.text=\nCrear\ una\ m\u00E1quina\ que\ emite\ tickets\ de\ un\ determinado\ precio\nEl\ precio\ ha\ de\ ser\ mayor\ que\ 0\ y\ no\ hay\ que\ verificar\ esto\n\n
+comment1.target=int\ getPrecio()
+comment1.text=\nDevolver\ el\ precio\ de\ un\ billete\n\n
+comment2.target=int\ getImporte()
+comment2.text=\nDevolver\ la\ cantidad\ de\ dinero\ insertada\ hasta\ el\ momento\npara\ el\ billete\n\n
+comment3.params=cantidad
+comment3.target=void\ insertarDinero(int)
+comment3.text=\nRecibir\ una\ cantidad\ de\ dinero\ de\ un\ usuario\n\n
+comment4.target=void\ imprimirTicket()
+comment4.text=\nImprimir\ un\ ticket\nActualizar\ el\ total\ recolectado\ por\ la\ m\u00E1quina\ y\nponer\ el\ importe\ a\ 0\n\n
+numComments=5
